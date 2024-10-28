@@ -6,20 +6,24 @@ public class PyramidStar {
         // Equilateral Triangle
 
 /*
-------------------------------------------
-        *                       1
-      *   *                   1   2
-    *   *   *               1   2   3
-  *   *   *   *           1   2   3   4
-*   *   *   *   *       1   2   3   4   5
-------------------------------------------
+-------------------
+        *
+      *   *
+    *   *   *
+  *   *   *   *
+*   *   *   *   *
+-------------------
 */
 
-        for(int i=1;i<=5;i++){
-            for(int j=i;j<=5;j++){
-                System.out.print("*");
+        int n=5;
+        for(int row=0;row<=n;row++){
+            for(int sp=n;sp>row;sp--){
+                System.out.print("  ");
             }
-            System.out.print();
+            for(int col=0;col<row;col++){
+                System.out.print("*   ");
+            }
+            System.out.println();
         }
 
 

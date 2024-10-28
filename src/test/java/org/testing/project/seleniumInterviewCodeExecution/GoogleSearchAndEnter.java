@@ -30,6 +30,10 @@ public class GoogleSearchAndEnter {
         action.sendKeys(searchBox, "Automation Testing", Keys.ENTER).build().perform();
         Thread.sleep(3000);
 
+        String text = searchBox.getText();
+
+        System.out.println(text);
+
 
         driver.quit();
     }

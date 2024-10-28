@@ -8,12 +8,12 @@ public class CubeStar {
          * * * *
          * * * *
          */
-
-        for(int row=4;row>0;row--){
-            for(int j=0;j<4;j++){
-                System.out.print("* ");// to print the stars
+        int n=4;
+        for(int row=0;row<n;row++){
+            for(int col=0;col<n;col++){
+                System.out.print("* ");
             }
-            System.out.println();//spaces
+            System.out.println();
         }
     }
 }

@@ -1,6 +1,9 @@
 package org.testing.project.JavaCollectionsPrograms;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
 import java.util.*;
-public class CharacterCountUsingMap {
+public class DuplicateCharactersinString {
     public static void main(String[] args){
 
         String str = "parikshithshetty";
@@ -15,7 +18,10 @@ public class CharacterCountUsingMap {
             }
         }
         for(char c:map.keySet()){
-            System.out.println("Character:"+c+" is repeated: "+map.get(c)+" Times");
+            if(map.get(c)>1){
+                System.out.println("Duplicate Character Found :"+c+" and its repeated: "+map.get(c)+" Times");
+            }
+
         }
     }
 }

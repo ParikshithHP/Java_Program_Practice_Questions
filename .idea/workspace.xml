@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eda411a4-5272-4155-912c-96e77291c95c" name="Changes" comment="commit 2">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/AllCollectionInJavaImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/CountofDigitsInNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/SumofDigitsinNum.java" afterDir="false" />
+    <list default="true" id="eda411a4-5272-4155-912c-96e77291c95c" name="Changes" comment="Daily Code Practice Programs : Commit - 3">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/DuplicateCharactersinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/IteratorUseCaseMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/WodCountUsingMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/AnagramUsingCharacterCountAscii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/AnagramUsingSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/cucumberBDDFrameworkQuestions/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/cucumberBDDFrameworkQuestions/TestRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/ScreenshotTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/ScreenshotTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/SeleniumWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/SeleniumWaits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/CharacterCountUsingMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/CharacterCountUsingMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +42,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AllCollectionInJavaImplementation.executor": "Run",
+    "Application.AnagramUsingCharacterCountAscii.executor": "Run",
+    "Application.AnagramUsingSorting.executor": "Run",
+    "Application.CharacterCountUsingMap.executor": "Run",
     "Application.CountofDigitsInNum.executor": "Run",
     "Application.CubeStar.executor": "Run",
+    "Application.DuplicateCharactersinString.executor": "Run",
     "Application.NumberStarPyramid.executor": "Run",
     "Application.PyramidStar.executor": "Run",
     "Application.ReverseStrings3ways.executor": "Run",
@@ -53,6 +56,7 @@
     "Application.StarTriangle.executor": "Run",
     "Application.SumofDigitsinNum.executor": "Run",
     "Application.SwapIn3Ways.executor": "Run",
+    "Application.WodCountUsingMap.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -95,13 +99,22 @@
       <option name="project" value="LOCAL" />
       <updated>1730098482463</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Daily Code Practice Programs : Commit - 3">
+      <option name="closed" value="true" />
+      <created>1730110504445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730110504445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="Daily Code Practice Programs : Commit - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily Code Practice Programs : Commit - 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

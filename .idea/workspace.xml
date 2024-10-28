@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eda411a4-5272-4155-912c-96e77291c95c" name="Changes" comment="commit 1">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/CharacterCountUsingMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/cucumberBDDFrameworkQuestions/TestRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/ReverseStrings3ways.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/NumberStarPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/ScreenshotTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="eda411a4-5272-4155-912c-96e77291c95c" name="Changes" comment="commit 2">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/AllCollectionInJavaImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/CountofDigitsInNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/SumofDigitsinNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/SwapIn3Ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/SwapIn3Ways.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/CubeStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/CubeStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/PyramidStar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/PyramidStar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/GoogleSearchAndEnter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/GoogleSearchAndEnter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/cucumberBDDFrameworkQuestions/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/cucumberBDDFrameworkQuestions/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/ScreenshotTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/ScreenshotTypes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/SeleniumWaits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/seleniumInterviewCodeExecution/SeleniumWaits.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,12 +42,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AllCollectionInJavaImplementation.executor": "Run",
+    "Application.CountofDigitsInNum.executor": "Run",
     "Application.CubeStar.executor": "Run",
     "Application.NumberStarPyramid.executor": "Run",
     "Application.PyramidStar.executor": "Run",
     "Application.ReverseStrings3ways.executor": "Run",
     "Application.SecondLargestInArray.executor": "Run",
+    "Application.SeleniumWaits.executor": "Run",
     "Application.StarTriangle.executor": "Run",
+    "Application.SumofDigitsinNum.executor": "Run",
     "Application.SwapIn3Ways.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -88,12 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1730092659528</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit 2">
+      <option name="closed" value="true" />
+      <created>1730098482463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730098482463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

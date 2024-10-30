@@ -4,33 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eda411a4-5272-4155-912c-96e77291c95c" name="Changes" comment="Daily Code Practice Programs : Commit - 4">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/DuplicatesInArrayUsingSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/FirstNonRepeatedCharaterInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/NonRepeatedCharacterInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/DuplicateElementsInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/DuplicateElementsInAnArrayUsingSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/ExtractFirst4CharactersUsingSubstring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/FactorialOfANum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/FactorialUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/FibanocciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/IpA1B2C3OpABBCCC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/LargestAndSmallestElementInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/LargestOf3Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/MissingElementInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/OddEvenNumbersInAnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/PalindromeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/PalindromeUsingRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/ReverseAStringSentence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/ReverseSentenceWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/teluskoJava/EncapsulationGetterSetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/teluskoJava/ThisKeyword.java" afterDir="false" />
+    <list default="true" id="eda411a4-5272-4155-912c-96e77291c95c" name="Changes" comment="Daily Code Practice Programs : Commit - 5">
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/StringBufferIPA1B2C3OPABBCCC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/ButterFlyPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/CharacterInvertRightAngleTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/CharacterRightAngleTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/patternsStarsNumPyramid/HollowRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/IteratorUseCaseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/JavaCollectionsPrograms/IteratorUseCaseMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/ReverseStrings3ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/ReverseStrings3ways.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/SecondLargestInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/testing/project/javaInterviewPrograms/SecondLargestInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +46,10 @@
     "Application.AnagramUsingCharacterCountAscii.executor": "Run",
     "Application.AnagramUsingSorting.executor": "Run",
     "Application.BubbleSort.executor": "Run",
+    "Application.ButterFlyPattern.executor": "Run",
     "Application.CharacterCountUsingMap.executor": "Run",
+    "Application.CharacterInvertRightAngleTriangle.executor": "Run",
+    "Application.CharacterRightAngleTriangle.executor": "Run",
     "Application.CountofDigitsInNum.executor": "Run",
     "Application.CubeStar.executor": "Run",
     "Application.DuplicateCharactersinString.executor": "Run",
@@ -77,6 +62,7 @@
     "Application.FactorialUsingRecursion.executor": "Run",
     "Application.FibanocciSeries.executor": "Run",
     "Application.FirstNonRepeatedCharaterInAString.executor": "Run",
+    "Application.HollowRectangle.executor": "Run",
     "Application.IpA1B2C3OpABBCCC.executor": "Run",
     "Application.IteratorUseCaseMap.executor": "Run",
     "Application.LargestAndSmallestElementInAnArray.executor": "Run",
@@ -95,6 +81,7 @@
     "Application.SecondLargestInArray.executor": "Run",
     "Application.SeleniumWaits.executor": "Run",
     "Application.StarTriangle.executor": "Run",
+    "Application.StringBufferIPA1B2C3OPABBCCC.executor": "Run",
     "Application.SumofDigitsinNum.executor": "Run",
     "Application.SwapIn3Ways.executor": "Run",
     "Application.WodCountUsingMap.executor": "Run",
@@ -156,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730116528909</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Daily Code Practice Programs : Commit - 5">
+      <option name="closed" value="true" />
+      <created>1730144917868</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730144917868</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,7 +159,8 @@
     <MESSAGE value="commit 2" />
     <MESSAGE value="Daily Code Practice Programs : Commit - 3" />
     <MESSAGE value="Daily Code Practice Programs : Commit - 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Daily Code Practice Programs : Commit - 4" />
+    <MESSAGE value="Daily Code Practice Programs : Commit - 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily Code Practice Programs : Commit - 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
